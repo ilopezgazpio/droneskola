@@ -204,7 +204,25 @@ $button-header-color-selected: #010101 !default;
 
 /* Language link */
 .language-switch {
-    margin-top : 5rem;
+    
+    @include large {
+	margin-top : 5rem;
+    }
+
+    @include medium {
+	display : block;
+	margin-top : 0.5 rem;
+    }
+
+    @include small {
+	display : block;
+	margin-top : 0.2 rem;
+    }
+    
+    &:hover {
+	transform: scale(1.1);
+    }
+
 }
 
 .language-link {
@@ -226,9 +244,23 @@ $button-header-color-selected: #010101 !default;
 
 .horizontal-banner img {
   width: auto;
-  height: 160px;
   object-fit: cover;
   border: 0px solid #000;
+
+  @include large {
+      height: 12rem;
+  }
+
+  @include medium {
+      height: 7rem;
+      margin-right: 1rem;
+  }
+
+  @include small {
+      height: 4rem;
+      margin-right: 0.2rem;
+  }
+  
 }
 
 /* Define lower banner */
