@@ -174,10 +174,13 @@ $button-header-color-selected: #010101 !default;
     margin-left: 0%;
     padding-left: 0;
     padding-right: 0;
-    border: 0px solid #000000;
-    border-radius: 0%;
+    border: 3px double #000000;
+    border-radius: 5%;
     width: auto;
     transition: transform 0.5s ease;
+    box-shadow: 4px 4px 0px #333, 8px 8px 0px #666;
+    padding: 1px;
+    background-color: white;
 
     @include large {
 	height: 6.5rem;
@@ -194,7 +197,7 @@ $button-header-color-selected: #010101 !default;
     }
     
     &:hover {
-	transform: scale(1.1);
+	transform: scale(1.05);
     }
 }
 
