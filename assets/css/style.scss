@@ -128,7 +128,6 @@ $button-header-color-selected: #010101 !default;
     border-radius: 0rem;
     transition: none;
 
-
     + .btn {
       margin-top: 1rem;
       margin-left: 0rem;
@@ -175,16 +174,29 @@ $button-header-color-selected: #010101 !default;
 
 /* Redefine header logo*/
 .header-logo-image {
-    margin-right: 2rem;
     margin-left: 0%;
     padding-left: 0;
     padding-right: 0;
     border: 0px solid #000000;
     border-radius: 0%;
     width: auto;
-    height: 6rem;
     transition: transform 0.5s ease;
 
+    @include large {
+	height: 6.5rem;
+        margin-right: 2rem;
+    }
+
+    @include medium {
+	height: 4rem;
+        margin-right: 1rem;
+    }
+
+    @include small {
+	height: 2rem;
+        margin-right: 0.2rem;
+    }
+    
     &:hover {
 	transform: scale(1.1);
     }
