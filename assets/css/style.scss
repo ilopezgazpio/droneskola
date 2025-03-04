@@ -36,33 +36,30 @@ $button-header-color-selected: #010101 !default;
     align-items: center;
     gap: 3px;
 
-}
+    @include small {
+        display: inline-block;
+    }
 
-/* Redefine project-name and tag-line*/
-.project-name {
-    float: left;
-    margin-top: 1rem;
-    margin-bottom: 0.1rem;
-    margin-left: 10%;
-    margin-right: 0;
-    font-family: 'EHUSans';
-    font-size: 1rem;
 }
 
 .navigation-buttons {
-    float: right;
-    margin-top : 5rem;
     margin-bottom: 1rem;
 
     @include large {
+	float: right;
+	margin-top : 5rem;
         margin-right: 15%;
     }
 
     @include medium {
+	float: right;
+	margin-top : 3rem;
         margin-right: 5%;
     }
 
     @include small {
+	float: center;
+	margin-top : 1rem;
         margin-right: 0%;
     }
 }
@@ -193,8 +190,7 @@ $button-header-color-selected: #010101 !default;
     }
 
     @include small {
-	height: 2rem;
-        margin-right: 0.2rem;
+	height: 5rem;
     }
     
     &:hover {
