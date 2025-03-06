@@ -15,15 +15,20 @@ permalink: /argitalpenak
     	   <div class="post">
 
     	   	<a href=" {{ post.url }} ">
-
-		        {{ post.title }} ({{ post.date | date: "%Y/%m/%d" }})
-	      
+		   	<h2 class="project-tagline">
+		        {{ post.title }}     (azken eguneraketa: {{ post.date | date: "%Y/%m/%d" }})
+	      		</h2>
+			
 			<img src="{{ post.image }}" alt="{{ post.title }}" class="post-image">
 
 
 	  	</a>
 	  	<p>
 			{{ post.excerpt }}
+
+	    	   	<a href=" {{ post.url }} ">
+			   Irakurtzen jarraitu
+			</a>
 	  	</p>
 
 	   </div>
