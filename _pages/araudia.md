@@ -26,7 +26,7 @@ Eskeman ikusi daitekeen modura jostailuzko drone batekin hegaldiak egitea nahiko
 Dronei aplikatzen dieten murriztapen eta betebehar guztiak ahazteko beste alternatiba <i>indoor</i> deritzon modalitatera mugatzea da. Edifizio baten barruan gauden bitartean ez baita aireko espazioaren bete beharrik kontuan izan behar, ez eta AESArenak. Drone handiak gela eta pasilloetan zehar mugitzeko konplikatuak diren heinean (turbulentziak), jostailuzko dronak bereziki egokiak dira indoor aktibitateak egiteko, baita ziztu biziko txapelketak ere! Ondorioz, aukera hori drone txikien bitartez lagunduta (bai jostailuak baita <i>cinewhoop</i> kategoriakoak) dronen mundura gerturatzeko eta dronak gidatzen ikasteko aukera paregabea da.
 
 
-[Read my post]({% post_url 2025-03-20-Webgunea-atzigarri %})
+[Indoor drone txikien sarrera. Lehen urratsak]({% post_url 2025-03-11-Indoor-dronak-sarrera.md %})
 
 
 
