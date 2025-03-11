@@ -18,7 +18,7 @@ permalink: /argitalpenak
 		   	<h2 class="project-tagline">
 		        {{ post.title }}     (azken eguneraketa: {{ post.date | date: "%Y/%m/%d" }})
 	      		</h2>
-			
+
 			<img src="{{ post.image }}" alt="{{ post.title }}" class="post-image">
 
 
