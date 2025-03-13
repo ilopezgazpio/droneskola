@@ -18,7 +18,7 @@ Kasu horietarako mesedez erabili webgunearen eskola sustentatzen duen github pro
 
 <h3 class="project-tagline">Bestelako proposamenak</h3>
 
-Idatzi zuzenean hona eta azaldu zure proposamenak: <a href="mailto:inigo.lopez@ehu.eus"> Inigo Lopez-Gazpio: inigo.lopez@ehu.eus </a>
+Idatzi zuzenean hona eta azaldu zure proposamenak: <a href="mailto:info@droneskola.eus"> info@droneskola.eus </a>
 
 
 
