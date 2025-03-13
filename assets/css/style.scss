@@ -298,11 +298,21 @@ p {
     color: $main-text-color
 }
 
-/* Define author biography images */
-.author-image {
+/* Define post or product images */
+
+.product-image-middle {
+    display: block;
+    margin: 0 auto;
+    width: 45%;
+    height: auto;
+    border: 0.5px solid black;
+    object-fit: cover;
+}
+
+.product-image-left {
     float: left;
-    width: 130px;
-    height: 170px;
+    width: 35%;
+    height: auto;
     margin-right: 15px;
     margin-bottom: 0px;
     border: 0.5px solid black;
