@@ -7,6 +7,7 @@ $header-bg-color: #fd9d08 !default;
 $header-bg-color-secondary: #B7B2B2 !default;
 $button-header-color: #050505 !default;
 $button-header-color-selected: #010101 !default;
+$main-text-color: #252525 !default;
 
 @import "{{ site.theme }}";
 
@@ -294,6 +295,7 @@ $button-header-color-selected: #010101 !default;
 p {
     font-family: 'EHUSans';
     text-align: justify;
+    color: $main-text-color
 }
 
 /* Define author biography images */
