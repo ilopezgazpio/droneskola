@@ -1,6 +1,6 @@
 # Drone eskola irekia
 
-Indoor, jostailuzko, cinewhoop eta erabilera orokorreko drone eta urrutiko gailuen tinker eskola irekia bildu dugu espazio honetan ([Drone Skola](https://www.droneskola.eus)). Webgune honetan dronen inguruko behar duzun informazio guztia aurkituko duzu: dronen arautegia eta erregulazioa, hardwarea, softwarea, berriak eta abar. Dronen inguruko informazio guztia edonork ulertzeko moduan eta era librean gizarteratzea da gure helburua, dronen konplexutasunak sinplifikatu eta horiekin gozatzeko.
+Indoor, jostailuzko, cinewhoop eta erabilera orokorreko drone eta urrutiko gailuen tinker eskola irekia bildu dugu espazio honetan ([Drone eskola irekia](https://www.droneskola.eus)). Webgune honetan dronen inguruko behar duzun informazio guztia aurkituko duzu: dronen arautegia eta erregulazioa, hardwarea, softwarea, berriak eta abar. Dronen inguruko informazio guztia edonork ulertzeko moduan eta era librean gizarteratzea da gure helburua, dronen konplexutasunak sinplifikatu eta horiekin gozatzeko.
 
 ## Aurkezpena
 
