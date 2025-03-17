@@ -4,6 +4,8 @@ title: Drone eskola irekia
 permalink: /argitalpenak
 ---
 
+<h1 class="project-tagline">Jarraian drone eta urrutiko gailuen albiste berrienak aurkituko dituzu </h1>
+
 <div class="posts-list">
 
     {% for post in site.posts %}
