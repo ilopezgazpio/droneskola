@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Drone eskola irekia
+title: Drone eskola irekiarekin harremanetan jarri
 permalink: /harremanetarako
 ---
 

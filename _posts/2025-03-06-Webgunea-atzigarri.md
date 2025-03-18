@@ -3,6 +3,7 @@ layout: default
 title: Drone eskola irekiaren ekimena atzigarri
 date: 2025-03-06
 image: /assets/posts/Webgunea-atzigarri/webgunea-atzigarri.png
+permalink: /webgunea-atzigarri
 lang: eu
 ---
 

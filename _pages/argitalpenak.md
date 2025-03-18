@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Drone eskola irekia
+title: Drone eta urrutiko gailuen inguruko azken berriak eta argitalpenak
 permalink: /argitalpenak
 ---
 

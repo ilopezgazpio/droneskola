@@ -3,6 +3,7 @@ layout: default
 title: "Indoor drone fun: hasiberrientzako gida"
 date: "2025-03-11"
 image: "/assets/posts/Indoor-dronak-sarrera/indoor_drone.webp"
+permalink: /indoor-dronak-sarrera
 lang: eu
 ---
 
@@ -26,7 +27,7 @@ Bere tamaina trinkoak espazio estuetan zehar arin nabigatzeko aukera ematen du, 
 
 Inoiz dron batekin hegan egin ez baduzu, hasiera batean kontrol ezberdinek nahasgarriak dirudite. Lasai, jarraian egingo dugu azalpen laburra. Hala ere, jakin, horiek ikastea erraza dela oinarrizko printzipioak ulertu ondoren. Hona hemen dronarekin hegan egiteko erabiltzen diren kontrol nagusien banaketa:
 
-[Dronak gidatzeko sarrera]({% post_url 2025-03-13-Dronak-gidatzeko-sarrera %})
+[Dronak gidatzeko sarrera]({{ site.baseurl }}/dronak-gidatzeko-sarrera)
 
 <a href="{{url}}" target="_blank"> Eachine E017</a> drona hegan egiteko erraza izateko diseinatuta dago, baita aurretik esperientziarik ez dutenentzat ere. Faltan botako duzun gauza bakarra bateria gehiago ez izatea da.
 Horrelako indoor dronak bide erakargarri berria eskaintzen digute hegan egiteko, arau edo erregulazioen kezkarik gabe eta gure etxeko erosotasunean. Zaletasun berri bat, opari dibertigarri bat edota droneen gaira salto egiteko asmoa baduzu Eachine E017 aukera bikaina da.

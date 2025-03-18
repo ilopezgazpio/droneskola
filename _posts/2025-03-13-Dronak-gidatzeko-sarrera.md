@@ -3,6 +3,7 @@ layout: default
 title: "Drone estabilizatuak gidatzeko sarrera"
 date: "2025-03-13"
 image: "/assets/posts/Dronak-gidatzeko-sarrera/controller.webp"
+permalink: /dronak-gidatzeko-sarrera
 lang: eu
 ---
 
