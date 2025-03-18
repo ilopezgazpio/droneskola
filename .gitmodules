@@ -1,6 +1,3 @@
-[submodule "drone-shared-assets"]
-	path = drone-shared-assets
-	url = git@github.com:ilopezgazpio/drone-shared-assets.git
 [submodule "shared"]
 	path = shared
 	url = git@github.com:ilopezgazpio/drone-shared-assets.git
