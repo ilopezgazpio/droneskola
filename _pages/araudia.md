@@ -28,7 +28,7 @@ Eskeman ikusi daitekeen modura jostailuzko drone batekin hegaldiak egitea nahiko
 
 ENAIRE aplikazioan lokalizazio bat kontsultatu eta gorriz edo beste koloreren batean agertzen bada, zonalde horretan murriztapenen bat dagoela esan nahi du. Murriztapen batzuk gogorrak dira, eta ezin izango duzu bertan hegaldia egin, adibidez instalazio militar baten inguruan; aitzitik, beste murriztapen batzuk biguinak dira, eta ENAIREren aplikazioaren jarraibideak beteta baimenak eskatzea eta autorizazioa jasotzea posible da. Gomendioa hasiera batean murriztapenik ez duen zonalde batera mugatzea da, arazo burokratikoak ekiditeko.
 
-[Indoor drone txikien sarrera. Jostailu baten bitartezko lehen hurbilpena]({{ site.baseurl }}/indoor-dronak-sarrera){:target="_blank"}
+[Drone txikien sarrera. Jostailu baten bitartezko lehen hurbilpena]({{ site.baseurl }}/indoor-dronak-sarrera){:target="_blank"}
 
 <h2 id="indoor_drone" class="project-tagline">Dronekin lasai aritzeko beste alterbatibak: <i> indoor</i> eta <i>cinewhoop dronak</i></h2>
 

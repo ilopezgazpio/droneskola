@@ -8,8 +8,10 @@ permalink: /
 
 Ongi etorri <i> Drone eta urrutiko gailuen tinker eskola </i> irekira.
 Webgune honen helburua drone, eta, orohar, urrutiko gailuen teknologia euskaraz modu irekian gizarteratzea da.
-Gure ustetan, drone eta urrutiko gailuen teknologiak guztion eskuotan behar luke, kontua da, egun dugun burokraziaren, arautegiaren eta azalpen teknologiko konplexuen eraginez drone eta urrutiko gailuen esparrura inguratzeko interesa galdu egiten dugula.
+Gure ustetan, drone eta RC gailuen (<i>Radio Controlled</i>) teknologiak guztion eskuotan behar luke, kontua da, egun dugun burokraziaren, arautegiaren eta azalpen teknologiko konplexuen eraginez drone eta urrutiko gailuen esparrura inguratzeko interesa galdu egiten dugula.
 Drone eta urrutiko gailuen eskola ireki honetan gaiari lotutako informazio guztia atzitu ahal izango duzu, modu sinplean eta irekian ikasi dezazun.
+
+[Drone bat edonorentzat. Jostailu baten bitartezko lehen hurbilpena]({{ site.baseurl }}/indoor-dronak-sarrera){:target="_blank"}
 
 <h2 class="project-tagline"> Drone eta urrutiko gailuen teknologia eta informazioa euskaraz</h2>
 
@@ -18,7 +20,9 @@ Drone eta urrutiko gailuen inguruan euskarazko dibulgazioa egiteko helburuarekin
 
 Ongi etorri drone eskola irekira! Eskola hobetzeko ideiarik buruan? [jarri harremanetan gurekin]({{ site.baseurl }}/harremanetarako){:target="_blank"}
 
-<h2 class="project-tagline"> Drone eta RC gailuen teknologia eta arautegia landuko dugu</h2>
+[Irakurri drone eta RC gailuen inguruko arautegi laburtua]({{ site.baseurl }}/drone_araudia){:target="_blank"}
+
+<h2 class="project-tagline"> Drone eta RC gailuen teknologia, hardwarea eta arautegia landuko dugu</h2>
 
 <i> Drone eta urrutiko gailuen tinker eskola </i> irekiak aipatutako teknologiarekin lotutako edozein gairen inguruan egingo du dibulgazioa euskaraz. Hasiera batean, bereziki landuko ditugun gaiak ondorengoak izango dira:
 
