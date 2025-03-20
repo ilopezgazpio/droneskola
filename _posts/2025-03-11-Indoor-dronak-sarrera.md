@@ -27,7 +27,7 @@ Adin guztietarako ezin hobea den indoor drone baten adibide bikaina <a href="{{u
 
 Bere tamaina trinkoak espazio estuetan zehar arin nabigatzeko aukera ematen du, barruko hegaldietarako aukera bikaina bihurtuz. Mini drone honek 3,7V 150mAhko serieko bateria du, karga bakoitzeko 3-5 minutu inguruko hegaldi denbora eskaintzen duena. Txikia izan arren, hegaldi-funtzioz beteta dago, esaterako, estabilizazioa eta fine-tunninga. Dronak manual txiki bat dakar, eta funtzio aurreratu horiek guztiak bertan azaltzen dira. Estabilizatuta hegan egiteak hegaldia sinplifikatzen du, dronak oreka mantenduko baitu bakarrik, gainera, fine-tunninga dronak izan ditzakeen joerak zuzentzeko baliagarria da.
 
-<h2 class="project-tagline">Eachine oso erraz kontrolatzen den mini drone bat da</h2>
+<h2 class="project-tagline">Eachine E017 oso erraz kontrolatzen da</h2>
 
 Inoiz drone batekin hegan egin ez baduzu, hasiera batean kontrol ezberdinek nahasgarriak dirudite. Lasai, jarraian egingo dugu azalpen laburra. Hala ere, jakin, horiek ikastea erraza dela oinarrizko printzipioak ulertu ondoren. Hona hemen dronarekin hegan egiteko erabiltzen diren kontrol nagusien banaketa:
 
@@ -35,6 +35,8 @@ Inoiz drone batekin hegan egin ez baduzu, hasiera batean kontrol ezberdinek naha
 
 <a href="{{url}}" target="_blank"> Eachine E017</a> drona hegan egiteko erraza izateko diseinatuta dago, baita aurretik esperientziarik ez dutenentzat ere. Faltan botako duzun gauza bakarra bateria gehiago ez izatea da.
 Horrelako indoor dronak bide erakargarri berria eskaintzen digute hegan egiteko, arau edo erregulazioen kezkarik gabe eta gure etxeko erosotasunean. Zaletasun berri bat, opari dibertigarri bat edota droneen gaira salto egiteko asmoa baduzu Eachine E017 aukera bikaina da.
+
+<h2 class="project-tagline">Dronaren eta kontrolaren artean lotura (binding)</h2>
 
 Azkenik, aipatu drone honen kasuan dronaren beraren eta mandoaren arteko lotura egiteko prozesua asko sinplifikatu dela, _binding_ hori egiteko, nahikoa da bi gailuak piztu eta mandoan throttle gora eta seginda behera mugitzea. Binding prozesua zuzena bada dronaren argi keinukariak finko geratuko dira. Motorrak prestatzeko nahikoa da throttle pixka bat gora mugitzea eta has dadila hegaldia!
 
