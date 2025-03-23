@@ -4,7 +4,6 @@ title: Drone eskola irekiaren ekimena atzigarri
 date: 2025-03-06
 image: /assets/posts/Webgunea-atzigarri/webgunea-atzigarri.png
 permalink: /webgunea-atzigarri
-lang: eu
 ---
 
 Kaixo dronero hori! <i>Drone eskola irekiaren</i> ekimena atzigarri dago dagoeneko <a href="www.droneskola.eus" target="_blank">www.droneskola.eus</a> helbidean.

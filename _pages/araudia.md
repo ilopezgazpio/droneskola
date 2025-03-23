@@ -52,6 +52,20 @@ Edifizio baten barruan gauden bitartean ez baita aireko espazioaren bete beharri
 Drone handiak gela eta pasilloetan zehar mugitzeko konplikatuak diren heinean (turbulentziak), jostailuzko dronak bereziki egokiak dira indoor aktibitateak egiteko, baita ziztu biziko txapelketak ere!
 Ondorioz, aukera hori drone txikien bitartez lagunduta (bai jostailuak baita _cinewhoop_ kategoriakoak) dronen mundura gerturatzeko eta dronak gidatzen ikasteko aukera paregabea da.
 
+<h3 id="indoor_drone" class="project-tagline"> <i>Cinewhoop dronak</i> erabiltzearen abantailak </h3>
+
+_Cinewhoop_ dronak ez dira jostailuak, pisu eta tamaina txikia izan arren kamera onak dauzkatelako. Ikusi dugu hori jostailu baten kategoriatik kanpo geratzeko arrazoietako bat dela.
+Hala ere, pisu eta tamaina txikia izateagatik askotan _indoor_ modalitatean erabiltzen dira (jostailuen modura, horiek ere haizeak eramango baititu), eta, ondorioz, ez dute hegaldi modalitate horretan arautegiarekin zertan bete behar.
+Ikusi dugu, itxitako espazio pribatu batean ez direla aireko erregulazio eta arauak aplikatzen.
+Espazio pribatuaren jabearen baimena izatea nahikoa da _cinewhoop_ drona martxan jartzeko.
+
+Azken aldian, _cinewhoop_ motako dronak ospea irabazi dute, eskuragarritasunaren eta arintasunaren nahasketa ezin hobeari esker.
+Drone arin, konpaktu eta gidatzeko errazak diren horretan kalitatezko irudi zinematikoak eta luzeak produzitzeko gai dira, bereziki barruko espazio estuetan, drone zinematiko profesionalak duten kostuaren portzentai oso txiki batean.
+
+[_Cinewhoop_ drone motaren inguruan gehiago irakurri]({{ site.baseurl }}/cinewhoop-dronak-sarrera){:target="_blank"}
+
+
+
 
 
 
