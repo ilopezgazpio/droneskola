@@ -6,10 +6,17 @@ permalink: /drone_araudia
 
 <h1 class="project-tagline"> Dronen araudiaren eta erregulazioaren gida azkarra</h1>
 
-Ez dizut gezurrik esango, egun, dronen araudia eta erregulazioa guztiz kontrolpean izatea ez da lan makala. 2024 urtean araudi guztia hankaz gora jarri zuen <a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-11377" target="_blank"> errege dekretu berria indarrean jarri zen (517/2024)</a>, eta horrek,
-marko juridiko berria ezarri zuen urrutiko gailu hegalarien inguruan. Berrikuntza nagusienen artean marko legala europar batasunak markatzen dituen oinarrietara hurbiltzea bazen ere, gaia konplikatu egin da, eta kasu batzuetan behar baino dezente gehiago.
+Ez dizut gezurrik esango, egun, dronen araudia eta erregulazioa guztiz kontrolpean izatea ez da lan makala. 2024 urtean araudi guztia hankaz gora jarri zuen
+<a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-11377" target="_blank" rel="noindex nofollow"> errege dekretu berria indarrean jarri zen (517/2024)</a>, eta horrek,
+marko juridiko berria ezarri zuen urrutiko gailu hegalarien inguruan.
+Berrikuntza nagusienen artean marko legala europar batasunak markatzen dituen oinarrietara hurbiltzea bazen ere, gaia konplikatu egin da, eta kasu batzuetan behar baino dezente gehiago.
 
-Garbi izan behar duzuna ondorengoa da: urrutiko gailuaren arabera normatibak aldatu egiten direla. Esate baterako, lurreko urrutiko gailua edota uretan nabegatzen edo murgiltzen den gailua erabiltzeko ez duzu traba berezirik izango, aitzitik, hegan egiten duen urrutiko gailua erabiltzeko (ingelesez _UAV_ gisa ezagutzen dena, _Unmmaned Aerial Vehicle_) bete behar den baldintzen multzoa handia da. Zergatik gertatzen da hori? ados egon gaitezke edo ez... baina legearen arabera urrutiko gailu hegalariek aireko espazioa erabiltzen duten horretan, aireko trafikoaren erregela berdinak ere bete behar dituzte. Hein horretan, komeni da araudiaren eta erregulazioaren ideia minimo bat izatea, zeren drone bat okerrean erabiltzeagatik isuna jasotzen badugu, abiazio isuna izango baita, esan gabe doa nahiko potoloak direla.
+Garbi izan behar duzuna ondorengoa da: urrutiko gailuaren arabera normatibak aldatu egiten direla.
+Esate baterako, lurreko urrutiko gailua edota uretan nabegatzen edo murgiltzen den gailua erabiltzeko ez duzu traba berezirik izango, aitzitik,
+hegan egiten duen urrutiko gailua erabiltzeko (ingelesez _UAV_ gisa ezagutzen dena, _Unmmaned Aerial Vehicle_) bete behar den baldintzen multzoa handia da.
+Zergatik gertatzen da hori? ados egon gaitezke edo ez...
+baina legearen arabera urrutiko gailu hegalariek aireko espazioa erabiltzen duten horretan, aireko trafikoaren erregela berdinak ere bete behar dituzte.
+Hein horretan, komeni da araudiaren eta erregulazioaren ideia minimo bat izatea, zeren drone bat okerrean erabiltzeagatik isuna jasotzen badugu, abiazio isuna izango baita, esan gabe doa nahiko potoloak direla.
 
 <h2 class="project-tagline"> Zer jakin behar dut (gutxienez) drone batekin lasai hegan egiteko</h2>
 
@@ -23,7 +30,7 @@ Gaia nahiko konplikatua den horretan, hasi gaitezen goi-mailako beharren azterke
 
 Eskeman ikusi daitekeen modura jostailuzko drone batekin hegaldiak egitea nahiko erraza da, eta drone guztientzat aplikagarriak diren erro erregelak bakarrik kontuan hartu behar dira:
 <ol> i) ezin da 120 metroko altuera gainditu, eta </ol>
-<ol> ii) AESA agentziaren (<i>Agencia Española de Seguridad Aérea</i>) <a href="https://drones.enaire.es/" target="blank">ENAIRE smartphone/web aplikazioa kontsultatu</a> behar da, hegaldia egiteko zonaldea egokia dela kontsultatzeko
+<ol> ii) AESA agentziaren (<i>Agencia Española de Seguridad Aérea</i>) <a href="https://drones.enaire.es/" target="blank" rel="noindex nofollow">ENAIRE smartphone/web aplikazioa kontsultatu</a> behar da, hegaldia egiteko zonaldea egokia dela kontsultatzeko
 </ol>
 
 ENAIRE aplikazioan lokalizazio bat kontsultatu eta gorriz edo beste koloreren batean agertzen bada, zonalde horretan murriztapenen bat dagoela esan nahi du. Murriztapen batzuk gogorrak dira, eta ezin izango duzu bertan hegaldia egin, adibidez instalazio militar baten inguruan; aitzitik, beste murriztapen batzuk biguinak dira, eta ENAIREren aplikazioaren jarraibideak beteta baimenak eskatzea eta autorizazioa jasotzea posible da. Gomendioa hasiera batean murriztapenik ez duen zonalde batera mugatzea da, arazo burokratikoak ekiditeko.
