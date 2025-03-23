@@ -26,15 +26,15 @@ Ongi etorri drone eskola irekira! Eskola hobetzeko ideiarik buruan? [jarri harre
 
 <i> Drone eta urrutiko gailuen tinker eskola </i> irekiak aipatutako teknologiarekin lotutako edozein gairen inguruan egingo du dibulgazioa euskaraz. Hasiera batean, bereziki landuko ditugun gaiak ondorengoak izango dira:
 
-[- dronen arauak eta erregulazioa]({{ site.baseurl }}/drone_araudia){:target="_blank"}, lasai hegan egiteko betebeharrak ezagutzeko.
+[- Dronen arauak eta erregulazioa]({{ site.baseurl }}/drone_araudia){:target="_blank"}, lasai hegan egiteko betebeharrak ezagutzeko.
 
-[- hardwarea eta askotariko dronen eraikuntza]({{ site.baseurl }}/drone_hardware){:target="_blank"}. Drone eta RC gailu komertzialen gainetik zeureak sortzen ikasteko.
+[- Hardwarea eta askotariko dronen eraikuntza]({{ site.baseurl }}/drone_hardware){:target="_blank"}. Drone eta RC gailu komertzialen gainetik zeureak sortzen ikasteko.
 
 [- FPV dronak]({{ site.baseurl }}/drone_fpv){:target="_blank"} (<i>First Person View </i> delako dronak). Zirkuituetan lasterketak eta <i>freestyle</i> egiten ikasteko.
 
 Ondorioz, dronak nola eraikitzen diren eta nola erabili daitezkeen azaltzen ahaleginduko gara. Era berean, webgunea ez dago drone komertzialei bideratua, ez eta dron komertzial edo zinematikoak erabilita egin daitezkeen ikus-entzunezko lanetara bideratua.
 
-Prest zara drone eta urrutiko gailuen gaiari heltzeko? 
+Prest zara drone eta urrutiko gailuen gaiari heltzeko?
 
 
 
