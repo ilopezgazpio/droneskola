@@ -4,7 +4,7 @@ title: Drone, UAV eta urrutiko gailuen inguruan ikasi eta trebatu drone eskola i
 permalink: /
 ---
 
-<h1 class="project-tagline"> Ikasi drone, UAV eta RC gailuak erabiltzen. Drone eskolan informazio guztia biltzen duen online ikastaroa dugu</h1>
+<h1 class="project-tagline"> Ikasi drone, UAV eta urrutiko RC gailuak erabiltzen </h1>
 
 Ongi etorri <i> Drone eta urrutiko gailuen tinker eskola </i> irekira.
 Webgune honen helburua drone, eta, orohar, urrutiko gailuen teknologia euskaraz modu irekian gizarteratzea da.
@@ -13,7 +13,7 @@ Drone eta urrutiko gailuen eskola ireki honetan teknologiari lotutako informazio
 
 [Drone bat edonorentzat. Jostailu baten bitartezko lehen hurbilpena]({{ site.baseurl }}/indoor-dronak-sarrera){:target="_blank"}
 
-<h2 class="project-tagline"> Drone, UAV eta urrutiko gailuen teknologia eta informazioa biltzen duen ikastaroa</h2>
+<h2 class="project-tagline"> Drone eskolan informazio eta teknologia guztia biltzen duen online ikastaroa dugu, euskaraz</h2>
 
 Dronak eta urrutiko gailuak hazkunde handia izaten ari dira, tamalez, euskaraz ez dago ia kalitatezko informaziorik atzigarri.
 Drone eta urrutiko gailuen inguruan euskarazko dibulgazioa egiteko helburuarekin ekin diogu proiektu honi, interesa partekatzen dugunon artean teknologia honen itzalean dauden kontu guztiak modu erraz batean gizarteratzeko. Dronen teknologia interesa duen edonori modu irekian eta sinplean helaraztea da gure helburua.
@@ -22,7 +22,7 @@ Ongi etorri drone eskola irekira! Eskola hobetzeko ideiarik buruan? [jarri harre
 
 [Irakurri drone eta RC gailuen inguruko arautegi laburtua]({{ site.baseurl }}/drone_araudia){:target="_blank"}
 
-<h2 class="project-tagline"> Drone, UAV eta RC gailuen teknologia, hardwarea eta arautegia landuko dugu ikastaro honetan</h2>
+<h2 class="project-tagline"> Drone, UAV eta RC gailuen teknologia, hardwarea, arautegia eta erregulazioa lantzen duen ikastaro irekia</h2>
 
 <i> Drone eta urrutiko gailuen tinker eskola </i> irekiak aipatutako teknologiarekin lotutako edozein gairen inguruan egingo du dibulgazioa euskaraz. Hasiera batean, bereziki landuko ditugun gaiak ondorengoak izango dira:
 
